@@ -1,2 +1,2 @@
 # testrepo
-repo for testing
+Gyakorlás
